@@ -2,6 +2,8 @@
 
 Welcome to the ultimate learning guide and comprehensive documentation for **ResumeInsight AI**! This guide is written specifically to teach you how the application works, how it is architected, and the mathematical and technical principles behind it. 
 
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://resumeinsig-2zgkeqwwiks9t2ti7z8sgk.streamlit.app/)
+
 If you are preparing for technical interviews, this document contains everything you need to know about building, optimizing, and explaining a production-ready AI Resume Analyzer and ATS Optimizer with RAG.
 
 ---

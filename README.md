@@ -4,7 +4,11 @@
 
 A production-ready application that performs **deterministic ATS scoring**, **semantic keyword matching**, **resume quality analysis**, and **AI-powered chat** using RAG — not just a simple LLM wrapper.
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red) ![LangChain](https://img.shields.io/badge/LangChain-0.1+-green) ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-Latest-purple)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://resumeinsig-2zgkeqwwiks9t2ti7z8sgk.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.9+-blue)](#)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-0.1+-green)](#)
+[![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-Latest-purple)](#)
 
 ---
 
