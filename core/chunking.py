@@ -7,7 +7,7 @@ from LangChain for intelligent text splitting.
 """
 
 from typing import List, Dict, Any
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from utils.constants import CHUNK_SIZE, CHUNK_OVERLAP
 
 
